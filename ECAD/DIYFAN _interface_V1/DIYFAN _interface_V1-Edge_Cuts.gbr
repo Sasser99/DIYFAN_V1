@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.8*%
+%TF.CreationDate,2025-03-10T16:10:23+01:00*%
+%TF.ProjectId,DIYFAN _interface_V1,44495946-414e-4205-9f69-6e7465726661,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.8) date 2025-03-10 16:10:23*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X99314000Y-78740000D02*
+X203200000Y-78740000D01*
+X203200000Y-101600000D01*
+X99314000Y-101600000D01*
+X99314000Y-78740000D01*
+M02*

@@ -1,0 +1,13 @@
+# KiCad temporär
+*.bak
+*.tmp
+*.sch-bak
+*.kicad_sch-bak
+
+# Arduino temporär
+*.hex
+*.elf
+
+# Windows-Dateien
+Thumbs.db
+.DS_Store

@@ -1,0 +1,57 @@
+LICENSE for DIYFAN_V1
+=====================
+
+Copyright © 2025 Sasser99  
+https://github.com/Sasser99/DIYFAN_V1
+
+This project is open source and released under multiple licenses per content type.  
+Attribution is required in all cases (naming the original author).
+
+---
+
+## 🧠 Software (`CODE/`)  
+**License: MIT License**
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files  
+(the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge,  
+publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so,  
+subject to the following conditions:
+
+> The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.  
+>  
+> THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND...
+
+SPDX-License-Identifier: MIT
+
+---
+
+## 🔌 Hardware (`ECAD/`)  
+**License: CERN Open Hardware License v2 – Strongly Reciprocal (CERN-OHL-S)**
+
+You may freely use, modify, distribute, and manufacture the hardware designs under the terms of this license,  
+provided that you distribute the complete design files and attribute the original author.
+
+- Full license text: https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2  
+- SPDX-License-Identifier: CERN-OHL-S-2.0
+
+---
+
+## 🖨️ 3D Models (`CAD/`)  
+**License: Creative Commons Attribution 4.0 International (CC BY 4.0)**
+
+You are free to:
+- **Share** – copy and redistribute the material in any medium or format  
+- **Adapt** – remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+- **Attribution** – You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+- Full license text: https://creativecommons.org/licenses/by/4.0/  
+- SPDX-License-Identifier: CC-BY-4.0
+
+---
+
+## 👤 Attribution
+
+Please credit the author:  
+**Sasser99** – https://github.com/Sasser99/DIYFAN_V1
