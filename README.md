@@ -12,7 +12,7 @@ Files from the YouTube video:
 - **ECAD/** – KiCad files  
 - **CODE/** – Arduino code  
 - **CAD/** – 3D models (STL, STEP)
-- **BOM** – Each assembly has its own BOM, organized in separate worksheets within a single file (Assembly_Fan-Stage, Assembly_Electronic-Stage and Assembly_Tripod)
+- **BOM/** – Each assembly has its own BOM, organized in separate worksheets within a single .ods file (Assembly_Fan-Stage, Assembly_MainPCBA-Housing and Assembly_Tripod)
 
 
 
