@@ -2,6 +2,7 @@
 
 Files from the YouTube video:  
 **"DIY FAN V1 | Even BETTER than Noctua's desk fan?"**
+
 ![Alt-Text](img/DIYFAN_V1_Thumbnail.png)
 
 
@@ -24,3 +25,8 @@ This project is open source and licensed as follows:
 - **CAD:** Creative Commons Attribution 4.0 (CC BY 4.0)
 
 ➡️ For full license texts, see the [LICENSE](LICENSE) file.
+
+
+## Hardware Architecture
+
+![Alt-Text](img/DIYFAN_V1_Hardware_Architecture.png)
