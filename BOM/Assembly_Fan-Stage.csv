@@ -1,0 +1,13 @@
+﻿Component;Sub component;Quantity;Manufacturer Part Number;Link
+DIYFAN_V1_Shroud.stl;;1;;
+Noctua NF-A12x25 PWM chromax.black.swap;;1;;https://noctua.at/de/nf-a12x25-pwm-chromax-black-swap
+PCBA: DIYFAN _interface_V1;;1;;
+;Modular Connectors / Ethernet Connectors WR-MJ_8P8C_THT_Vertical ;2;615008160321;https://www.mouser.de/ProductDetail/Wurth-Elektronik/615008160321?qs=OlC7AqGiEDmnhkTBXznxsQ%3D%3D
+;Headers & Wire Housings 4P VERT HDR W/FL ;1;47053-1000 ;https://www.mouser.de/ProductDetail/Molex/47053-1000?qs=ph4zPCVRuvqoDX7hrEhxNA%3D%3D
+;PCB (see gerber);1;;
+Ruthex M3 thread insert;;22;;https://www.ruthex.de/en/products/ruthex-gewindeeinsatz-m3-100-stuck-rx-m3x5-7-messing-gewindebuchsen?srsltid=AfmBOopR8BKug8ITQQtMF6fw8S3mQxS0U4x3am_fZL5zDbNjoHHJU5JS
+Screw M3 x 6 mm;;Depends on connector quantity;;
+Screw M3 x 30 mm;;4;;
+M3 Washers;;Min. 4;;
+Noctua Fan-Grill;;1;NA-FG1-12;https://noctua.at/en/na-fg1-12
+Network Cable (0.25?m as shown in the video build);;1;;https://www.amazon.de/gp/product/B08HDJLJ9J/ref=ox_sc_act_title_1?smid=A2BZ2HGVYHFPG4&th=1&language=en_GB
