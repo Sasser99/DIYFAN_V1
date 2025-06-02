@@ -1,17 +1,17 @@
 # DIYFAN_V1
 
 Files from the YouTube video:  
-**"Even BETTER than Noctua's desk fan? | DIY FAN V1"**
+**"DIY FAN V1 | Even BETTER than Noctua's desk fan?"**
 
----
 
-### Projektstruktur
+
+## Projektstruktur
 
 - **ECAD/** – KiCad files  
 - **CODE/** – Arduino code  
 - **CAD/** – 3D models (STL, STEP)
 
----
+
 
 ## License
 
