@@ -25,10 +25,3 @@ This project is open source and licensed as follows:
 - **CAD:** Creative Commons Attribution 4.0 (CC BY 4.0)
 
 ➡️ For full license texts, see the [LICENSE](LICENSE) file.
-
-
-## Hardware architecture
-
-Here's a rough overview of the hardware architecture.
-
-![Alt-Text](img/DIYFAN_V1_Hardware_Architecture.png)
