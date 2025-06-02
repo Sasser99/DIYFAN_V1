@@ -27,6 +27,8 @@ This project is open source and licensed as follows:
 ➡️ For full license texts, see the [LICENSE](LICENSE) file.
 
 
-## Hardware Architecture
+## Hardware architecture
+
+Here's a rough overview of the hardware architecture.
 
 ![Alt-Text](img/DIYFAN_V1_Hardware_Architecture.png)
