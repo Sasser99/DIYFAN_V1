@@ -2,14 +2,16 @@
 
 Files from the YouTube video:  
 **"DIY FAN V1 | Even BETTER than Noctua's desk fan?"**
+![Alt-Text](img/DIYFAN_V1_Thumbnail.png)
 
 
 
-## Projektstruktur
+## Project structure
 
 - **ECAD/** – KiCad files  
 - **CODE/** – Arduino code  
 - **CAD/** – 3D models (STL, STEP)
+- **BOM** – Each assembly has its own BOM, organized in separate worksheets within a single file (Assembly_Fan-Stage, Assembly_Electronic-Stage and Assembly_Tripod)
 
 
 
