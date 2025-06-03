@@ -29,10 +29,41 @@ This project is open source and licensed as follows:
 
 ## Story
 
-I came up with the idea to develop a modular, battery-powered, open-source fan built around high-end gaming PC fans. Gaming PC fans have low power consumption and, in the best case, are very quiet. Both are qualities that are also useful when the goal is not to cool PC components, but people. Additionally, the goal was to create a visually appealing and functional design. 
+I came up with the idea to develop a modular, battery-powered, open-source fan built around high-end gaming PC fans. Gaming PC fans have low power consumption and, in the best case, are very quiet. Both are qualities that are also useful when the goal is not to cool PC components, but people. Additionally, the goal was to create a visually appealing and functional design.
+The result is a system with three main modules: 
 
-The device essentially consists of three main modules: the so-called FAN stage, the main electronics module, and the tripod. There are also connecting elements between the modules.
+**FAN Stage:**
 
-The electronics module provides approximately 10 W of power. When using, as in my case, the fans Noctua NF-A12x25 PWM chromax.black.swap, up to five fan stages can be operated with it.
+![Alt-Text](img/Assembly1.png)
+
+- The shroud slightly increases the wind speed, which allows the device to be placed a bit farther away while still being effective.
+- In addition, the interface_V1 PCB is installed on the side. The PC fan can be connected to this board, which then passes on the fan’s signals.
+
+**Main Electronics Module:**
+
+![Alt-Text](img/Assembly2.png)
+
+-The electronics module provides approximately 10 W of power. When using fans such as the Noctua NF-A12x25 PWM chromax.black.swap, as I do, up to five fan stages can be operated simultaneously.
+
+**Tripod:**
+
+![Alt-Text](img/Assembly3.png)
+
+The goal was to develop, among other things, a modular system. Therefore, the three main components can be assembled in various configurations. Here are the setups shown in the YouTube video:
+
+**Full Build (with 3/5 Fans)**
+
+![Alt-Text](img/Build1.png)
+
+**Desk Setup**
+
+![Alt-Text](img/Build2.png)
+
+**Split Mode**
+
+![Alt-Text](img/Build3.png)
+
+
+
 
 
