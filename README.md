@@ -33,6 +33,7 @@ I came up with the idea to develop a modular, battery-powered, open-source fan b
 
 The result is a system with three main modules: 
 
+
 **FAN Stage:**
 
 ![Alt-Text](img/Assembly1.png)
@@ -40,11 +41,13 @@ The result is a system with three main modules:
 - The shroud slightly increases the wind speed, which allows the device to be placed a bit farther away while still being effective.
 - In addition, the interface_V1 PCB is installed on the side. The PC fan can be connected to this board, which then passes on the fan’s signals.
 
+
 **Main Electronics Module:**
 
 ![Alt-Text](img/Assembly2.png)
 
 - The electronics module provides approximately 10 W of power. When using fans such as the Noctua NF-A12x25 PWM chromax.black.swap, as I do, up to five fan stages can be operated simultaneously.
+
 
 **Tripod:**
 
@@ -52,13 +55,16 @@ The result is a system with three main modules:
 
 The goal was to develop, among other things, a modular system. Therefore, the three main components can be assembled in various configurations. Here are the setups shown in the YouTube video:
 
+
 **Full Build (with 3/5 Fans)**
 
 ![Alt-Text](img/Build1.png)
 
+
 **Desk Setup**
 
 ![Alt-Text](img/Build2.png)
+
 
 **Split Mode**
 
