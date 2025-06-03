@@ -30,6 +30,7 @@ This project is open source and licensed as follows:
 ## Story
 
 I came up with the idea to develop a modular, battery-powered, open-source fan built around high-end gaming PC fans. Gaming PC fans have low power consumption and, in the best case, are very quiet. Both are qualities that are also useful when the goal is not to cool PC components, but people. Additionally, the goal was to create a visually appealing and functional design.
+
 The result is a system with three main modules: 
 
 **FAN Stage:**
@@ -43,7 +44,7 @@ The result is a system with three main modules:
 
 ![Alt-Text](img/Assembly2.png)
 
--The electronics module provides approximately 10 W of power. When using fans such as the Noctua NF-A12x25 PWM chromax.black.swap, as I do, up to five fan stages can be operated simultaneously.
+- The electronics module provides approximately 10 W of power. When using fans such as the Noctua NF-A12x25 PWM chromax.black.swap, as I do, up to five fan stages can be operated simultaneously.
 
 **Tripod:**
 
