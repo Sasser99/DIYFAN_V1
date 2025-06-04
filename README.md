@@ -1,7 +1,7 @@
 # DIYFAN_V1
 
 Files from the YouTube video:  
-**"DIY FAN V1 | Even BETTER than Noctua's desk fan?"**
+**"I Built a High-End Open Source DIY Fan – Worth It?"**
 
 ![Alt-Text](img/DIY_FAN_FINAL.png)
 https://www.youtube.com/watch?v=IbPePFFd2lk
