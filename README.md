@@ -3,7 +3,7 @@
 Files from the YouTube video:  
 **"DIY FAN V1 | Even BETTER than Noctua's desk fan?"**
 
-![Alt-Text](img/DIYFAN_V1_Thumbnail.png)
+![Alt-Text](img/DIY_FAN_FINAL.png)
 https://www.youtube.com/watch?v=IbPePFFd2lk
 
 
