@@ -32,15 +32,15 @@ This project is open source and licensed as follows:
 
 I came up with the idea to develop a modular, battery-powered, open-source fan built around high-end gaming PC fans. Gaming PC fans have low power consumption and, in the best case, are very quiet. Both are qualities that are also useful when the goal is not to cool PC components, but people. Additionally, the goal was to create a visually appealing and functional design.
 
-The result is a system with three main modules: 
+The result is a system with three main assemblys: 
 
 
 **FAN Stage:**
 
 ![Alt-Text](img/Assembly1.png)
 
-- The shroud slightly increases the wind speed, which allows the device to be placed a bit farther away while still being effective.
-- In addition, the interface_V1 PCB is installed on the side. The PC fan can be connected to this board, which then passes on the fan’s signals.
+- The shroud increases the wind speed, which allows the device to be placed a bit further away while still being effective.
+- In addition, the interface_V1 PCBA is installed on the side. The PC fan can be connected to this board, which then passes on the fan’s signals.
 
 
 **Main Electronics Module:**
@@ -54,7 +54,7 @@ The result is a system with three main modules:
 
 ![Alt-Text](img/Assembly3.png)
 
-The goal was to develop, among other things, a modular system. Therefore, the three main components can be assembled in various configurations. Here are the setups shown in the YouTube video:
+The goal was to develop, among other things, a modular system. Therefore, the three assemblys can be assembled in various **configurations**. Here are the setups shown in the YouTube video:
 
 
 **Full Build (with 3/5 Fans)**
@@ -67,7 +67,7 @@ The goal was to develop, among other things, a modular system. Therefore, the th
 ![Alt-Text](img/Build2.png)
 
 
-**Split Mode**
+**Split Mode (Left and Right → Stereo)**
 
 ![Alt-Text](img/Build3.png)
 
