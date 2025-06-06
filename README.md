@@ -1,7 +1,7 @@
 # DIYFAN_V1
 
 Files from the YouTube video:  
-**"I Built a High-End Open Source DIY Fan – Worth It?"**
+**"DIY Fan V1 – I Built This Modular Open Source Project"**
 
 ![Alt-Text](img/DIY_FAN_V1_Thumbnail.png)
 https://www.youtube.com/watch?v=IbPePFFd2lk
