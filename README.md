@@ -3,7 +3,7 @@
 Files from the YouTube video:  
 **"I Built a High-End Open Source DIY Fan – Worth It?"**
 
-![Alt-Text](img/DIY_FAN_FINAL.png)
+![Alt-Text](img/DIY FAN V1 Thumbnail.png)
 https://www.youtube.com/watch?v=IbPePFFd2lk
 
 
