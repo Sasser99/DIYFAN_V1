@@ -1,4 +1,4 @@
-# DIYFAN_V1
+# DIY-Fan-V1
 
 Files from the YouTube video:  
 **"DIY Fan V1 – I Built This Modular Open Source Project"**
