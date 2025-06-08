@@ -39,9 +39,8 @@ The result is a system with three main assemblys:
 
 ![Alt-Text](img/Assembly1.png)
 
-- The shroud increases the wind speed, which allows the device to be placed a bit further away while still being effective.
+- Using the shroud increases the wind speed by around **80%**, which means the device can be placed a bit further away while still staying effective. Check it out in the linked YouTube video! :)
 - In addition, the interface_V1 PCBA is installed on the side. The PC fan can be connected to this board, which then passes on the fan’s signals.
-- Using the shroud increases the airflow speed by around **80%**! Feel free to check it out in the linked YouTube video :)
 
 
 **Main Electronics Module:**
