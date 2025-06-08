@@ -41,6 +41,7 @@ The result is a system with three main assemblys:
 
 - The shroud increases the wind speed, which allows the device to be placed a bit further away while still being effective.
 - In addition, the interface_V1 PCBA is installed on the side. The PC fan can be connected to this board, which then passes on the fan’s signals.
+- Using the shroud increases the airflow speed by around 80%! Feel free to check it out in the linked YouTube video :)
 
 
 **Main Electronics Module:**
@@ -48,6 +49,10 @@ The result is a system with three main assemblys:
 ![Alt-Text](img/Assembly2.png)
 
 - The electronics module provides approximately 10 W of power. When using fans such as the Noctua NF-A12x25 PWM chromax.black.swap, as I do, up to five fan stages can be operated simultaneously.
+
+![Alt-Text](img/ArduinoNano.png)
+
+- The Arduino Nano was just the right choice for this project – it’s nice and compact, and super easy to work with thanks to the Arduino IDE. Plus, using an Arduino makes it way easier for others to recreate the build, especially if you’ve played around with Arduinos before. The Nano sits on a small custom PCB to hook up a few extra parts – like some LEDs, a DC-DC converter, and one or two other small bits. But don’t worry: the number of components is totally manageable. So go ahead and give it a shot!
 
 
 **Tripod:**
