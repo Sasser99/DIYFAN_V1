@@ -35,7 +35,7 @@ I came up with the idea to develop a modular, battery-powered, open-source fan b
 The result is a system with three main assemblys: 
 
 
-**FAN Stage:**
+**1. FAN Stage:**
 
 ![Alt-Text](img/Assembly1.png)
 
@@ -43,7 +43,7 @@ The result is a system with three main assemblys:
 - In addition, the interface_V1 PCBA is installed on the side. The PC fan can be connected to this board, which then passes on the fan’s signals.
 
 
-**Main Electronics Module:**
+**2. Main Electronics Module:**
 
 ![Alt-Text](img/Assembly2.png)
 
@@ -54,11 +54,12 @@ The result is a system with three main assemblys:
 - The Arduino Nano was just the right choice for this project – it’s compact and super easy to work with thanks to the Arduino IDE. Plus, using an Arduino makes it way easier for others to recreate the build, especially if you’ve played around with Arduinos before. The Nano sits on a small custom PCB to hook up a few extra parts – like some LEDs, a DC-DC converter, and one or two other small parts. But don’t worry: the number of components is totally manageable. So go ahead and give it a shot!
 
 
-**Tripod:**
+**3. Tripod:**
 
 ![Alt-Text](img/Assembly3.png)
 
-The goal was to develop, among other things, a modular system. Therefore, the three assemblys can be assembled in various **configurations**. Here are the setups shown in the YouTube video:
+The goal was, among other things, to develop a modular system. To achieve this, the three assemblies can be combined in various **configurations**. They are connected using **mechanical connectors** and standard **Ethernet cables**, which transmit both the power supply and the PWM signal.
+Below are the setups demonstrated in the YouTube video:
 
 
 **Full Build (with 3/5 Fans)**
