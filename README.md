@@ -47,11 +47,11 @@ The result is a system with three main assemblys:
 
 ![Alt-Text](img/Assembly2.png)
 
-- The electronics module provides approximately 10 W of power. When using fans such as the Noctua NF-A12x25 PWM chromax.black.swap, as I do, up to five fan stages can be operated simultaneously.
+- The electronics module provides approximately **10 W** of power. When using fans such as the **Noctua NF-A12x25 PWM chromax.black.swap**, as I do, up to five fan stages can be operated simultaneously.
 
 ![Alt-Text](img/ArduinoNano.png)
 
-- The Arduino Nano was just the right choice for this project – it’s compact and super easy to work with thanks to the Arduino IDE. Plus, using an Arduino makes it way easier for others to recreate the build, especially if you’ve played around with Arduinos before. The Nano sits on a small custom PCB to hook up a few extra parts – like some LEDs, a DC-DC converter, and one or two other small parts. But don’t worry: the number of components is totally manageable. So go ahead and give it a shot!
+- The **Arduino Nano** was just the right choice for this project – it’s compact and super easy to work with thanks to the Arduino IDE. Plus, using an Arduino makes it way easier for others to recreate the build, especially if you’ve played around with Arduinos before. The Nano sits on a small custom PCB to hook up a few extra parts – like some LEDs, a DC-DC converter, and one or two other small parts. But don’t worry: the number of components is totally manageable. So go ahead and give it a shot!
 
 
 **3. Tripod:**
