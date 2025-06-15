@@ -41,9 +41,9 @@ The result is a system with three main assemblys:
 
 - The Fan Stage assembly, in turn, consists of three components: the fan, the interface_V1 PCBA, and the shroud.
 - As for the fan, I chose the Noctua **NF-A12x25 PWM chromax.black.swap**. This fan offers a good balance of airflow and static pressure.
+- It is possible to use other fans as well. However, they should have similar characteristics, such as comparable power consumption and static pressure.
 - Using **the shroud increases the wind speed by around 80%**, which means the device can be placed a bit further away while still staying effective. Check it out in the linked YouTube video! :)
 - In addition, the interface_V1 PCBA is installed on the side. The PC fan can be connected to this board, which then passes on the fan’s signals.
-- It is possible to use other gaming fans as well. However, they should have similar characteristics, such as comparable power consumption and static pressure
 
 
 **2. Main Electronics Module:**
@@ -52,7 +52,7 @@ The result is a system with three main assemblys:
 
 - The electronics module provides approximately **10 W** of power. When using fans such as the Noctua NF-A12x25 PWM chromax.black.swap, as I do, up to five fan stages can be operated simultaneously.
 - Operation is handled via a single button, which allows the fan stages to be cycled through sequentially.
-- Four RGB LEDs visible through the plexiglass panel indicate which PWM stage is currently active
+- Four RGB LEDs visible through the plexiglass panel indicate which PWM stage is currently active.
 
 ![Alt-Text](img/ArduinoNano.png)
 
