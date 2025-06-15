@@ -58,8 +58,8 @@ The result is a system with three main assemblys:
 
 ![Alt-Text](img/Assembly3.png)
 
-The goal was, among other things, to develop a modular system. To achieve this, the three assemblies can be combined in various **configurations**. They are connected using **mechanical connectors** and standard **Ethernet cables**, which transmit both the power supply and the PWM signal.
-Below are the setups demonstrated in the YouTube video:
+
+The goal was, among other things, to develop a modular system. To achieve this, the three assemblies can be combined in various **configurations**. They are connected using **mechanical connectors** and standard **Ethernet cables**. The Ethernet cables transmit both the power supply and the PWM signal. Below are the setups demonstrated in the YouTube video:
 
 
 **Full Build (with 3/5 Fans)**
