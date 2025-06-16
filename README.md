@@ -1,11 +1,9 @@
 # DIY-Fan-V1
 
-Files from the YouTube video:  
-**"DIY Fan V1 – I Built This Modular Open Source Project"**
+Files from the YouTube video: **"DIY Fan V1 – I Built This Modular Open Source Project"**
 
 ![Alt-Text](img/DIY_FAN_V1_Thumbnail.png)
 https://www.youtube.com/watch?v=IbPePFFd2lk
-
 
 
 ## Project structure
@@ -13,8 +11,7 @@ https://www.youtube.com/watch?v=IbPePFFd2lk
 - **ECAD/** – KiCad files  
 - **CODE/** – Arduino code  
 - **CAD/** – 3D models (STL, STEP)
-- **BOM/** – Each assembly has its own BOM, organized in separate worksheets within a single .ods file (Assembly_Fan-Stage, Assembly_MainPCBA-Housing and Assembly_Tripod)
-
+- **BOM/** – Each assembly has its own BOM, organized in separate worksheets within a single .ods file.
 
 
 ## License
