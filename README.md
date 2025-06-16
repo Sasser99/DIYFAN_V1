@@ -32,43 +32,46 @@ This project is open source and licensed as follows:
 
 I came up with the idea to develop a modular, battery-powered, open-source fan built around high-end gaming PC fans. Gaming PC fans have low power consumption and, in the best case, are very quiet. Both are qualities that are also useful when the goal is not to cool PC components, but people. Additionally, the goal was to create a visually appealing and functional design.
 
-The result is a system with three main assemblys: 
+The result is a system with **three main assemblies**: 
 
 
-**1. FAN Stage:**
+### 1. Fan Stage
 
 ![Alt-Text](img/Assembly1.png)
 
-- The Fan Stage assembly, in turn, consists of three components: the fan, the interface_V1 PCBA, and the shroud.
-- As for the fan, I chose the Noctua **NF-A12x25 PWM chromax.black.swap**. This fan offers a good balance of airflow and static pressure.
-- It is possible to use other fans as well. However, they should have similar characteristics, such as comparable power consumption and static pressure.
-- Using **the shroud increases the wind speed by around 80%**, which means the device can be placed a bit further away while still staying effective. Check it out in the linked YouTube video! :)
-- In addition, the interface_V1 PCBA is installed on the side. The PC fan can be connected to this board, which then passes on the fan’s signals.
+- This assembly consists of three parts: a fan, the interface_V1 PCBA, and the shroud.
+- I chose the **Noctua NF-A12x25 PWM chromax.black.swap**, which offers a solid balance between airflow and static pressure.
+- Other fans can be used as long as they have similar characteristics (e.g., airflow and static pressure).
+- The shroud **increases wind speed by around 80%**, allowing the fan to be placed further away while still being effective. More on this in the YouTube video! :)
+- The interface_V1 PCBA is mounted on the side and connects to the fan, forwarding its signals.
 
 
-**2. Main Electronics Module:**
+### 2. Main Electronics Module
 
 ![Alt-Text](img/Assembly2.png)
 
-- The electronics module provides approximately **10W** of power. When using fans such as the Noctua NF-A12x25 PWM chromax.black.swap, as I do, up to five fan stages can be operated simultaneously.
-- Operation is handled via a single **button**, which allows the PWM levels to be cycled through sequentially.
-- Four **RGB LEDs** visible through the plexiglass panel indicate which PWM level is currently active.
+- This module supplies approximately **10W** of power. With fans like the Noctua NF-A12x25, up to five fan stages can be powered simultaneously.
+- A single **button** is used to cycle through PWM levels.
+- Four **RGB LEDs**, visible through the plexiglass cover, indicate the active PWM level.
 
 ![Alt-Text](img/ArduinoNano.png)
 
-- The **Arduino Nano** was just the right choice for this project – it’s compact and super easy to work with thanks to the Arduino IDE. Plus, using an Arduino makes it way easier for others to recreate the build, especially if you’ve played around with Arduinos before. The Nano sits on a small custom PCB to hook up a few extra parts – like some LEDs, a DC-DC converter, and one or two other small parts. But don’t worry: the number of components is totally manageable. So go ahead and give it a shot!
-- Also visible is a **15W power bank**. I chose a power bank instead of a custom-built battery to make the project easier to replicate. Nowadays, power banks are quite affordable and can also be used for other purposes beyond the DIY Fan.
+- I chose the **Arduino Nano** because it's compact, easy to use via the Arduino IDE, and perfect for replicating the build—especially for those with Arduino experience.
+- The Nano is mounted on a small **custom PCB** that also houses LEDs, DC-DC converters, and a few additional components. But don’t worry: the total component count remains very manageable.
+- I also used a **15W power bank** instead of a custom battery to keep replication easy.
 
 
-**3. Tripod:**
+### 3. Tripod
 
 ![Alt-Text](img/Assembly3.png)
 
-- There isn't much to say about the tripod. If the legs are cut cleanly, the DIY fan stands level. In any case, the tripod provides the necessary stability, and in my opinion, the wood finish gives the device a better look.
+- The tripod is simple but functional. If the legs are cut cleanly, the fan stands level.
+- It provides the necessary stability, and I think the wood finish enhances the overall aesthetic.
 
 
-The goal was, among other things, to develop a **modular system**. To achieve this, the three assemblies can be combined in various **configurations**. They are connected using **mechanical connectors** and standard **Ethernet cables**. The Ethernet cables transmit both the power supply and the PWM signal. Below are the setups demonstrated in the YouTube video:
+### Configurations
 
+The overall goal was to create a modular system. The three assemblies can be combined in different configurations using mechanical connectors and standard **Ethernet cables**, which transmit both power and PWM signal. The following configurations are demonstrated in the YouTube video:
 
 **Full Build (with 3/5 Fans)**
 
